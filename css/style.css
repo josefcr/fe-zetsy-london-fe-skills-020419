@@ -31,6 +31,8 @@ body {
 p {
   font-family: Baskerville;
   color: rgb(108,128,122);
+  font-size: 1em;
+	margin: 0 0 20px 0;
 }
 h2 {
   font-family: Baskerville;
