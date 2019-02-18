@@ -9,7 +9,6 @@
 h1{
   font-family: Baskerville; serif;
   font-size: 5em;
-  color: rgb(108,128,122);
   border-bottom: 1px solid #ccc;
 }
 /*////////// Global Styles //////////*/
@@ -33,4 +32,5 @@ p {
 }
 h2 {
   font-family: Baskerville;
+  color: rgb(108,128,122);
 }
