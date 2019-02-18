@@ -26,5 +26,8 @@ body {
 
 /* Write all remaining styles here */
 p {
-  font-family: Baskerville
+  font-family: Baskerville;
+}
+h2 {
+  font-family: Baskerville;
 }
