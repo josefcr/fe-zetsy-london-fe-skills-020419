@@ -1,8 +1,8 @@
 /*////////////// Fonts //////////////*/
 
 @font-face {
-  font-family:'Baskerville';
-  src:/fonts/Baskerville.ttc;
+  font-family: Baskerville;
+  url(/fonts/Baskerville.ttc)
 }
 
 /* link the web font used for the level 1 heading here */
